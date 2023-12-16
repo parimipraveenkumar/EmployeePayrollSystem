@@ -120,16 +120,7 @@ public class EmployeePayroleSystem
         payrolesystem payroll=new payrolesystem();
         int n;
         Scanner sc=new Scanner(System.in);
-//        fullTimeEmployee emp1=new fullTimeEmployee("williams",101,70000);
-//        partTimeEmployee emp2=new partTimeEmployee("Henricks",102,1000,45);
-//        
-//        payroll.addEmployee(emp1);
-//        payroll.addEmployee(emp2);
-//        System.out.println("Intial Employee details: ");
-//        payroll.display();
-//        System.out.println("Removing Employees");
-//        payroll.removeEmployee(102);
-//        payroll.display();
+
         boolean t=true;
         do
         {
